@@ -1,0 +1,19 @@
+h2{ 
+     font-size: 40;
+     font-family: courier;
+     text-align: center;
+     margin:auto;
+    border-bottom:solid;border-bottom-width: 2px;
+border-bottom-color: grey}
+li{list-style-type: none;}
+div{font-family: courier;
+    margin: 5px;
+    font-weight: lighter;
+    }
+legend {
+    font-size:18px;
+    font-weight: bold;}
+
+fieldset{border:0}
+input{border-radius: 4px;        
+}
